@@ -192,7 +192,7 @@ header li a {
 /* **************** IMAGE PRINCIPALE ************* */
 #imagePrincipale {
   padding-top: 60px;
-  background: url(media/image-principale.JPG) no-repeat fixed 50% 50%;
+  background: url(media/image-principale.jpg) no-repeat fixed 50% 50%;
   background-size: cover;
   height: 799px;
   
@@ -334,7 +334,7 @@ h3 {
 }
 /* ******************* FOOTER ******************** */
 footer {
-  background: url(media/footerimg.JPG) no-repeat fixed 50% 50%; opacity: 60%; 
+  background: url(media/footerimg.jpg) no-repeat fixed 50% 50%; opacity: 60%; 
   background-size: 100%;
   height: 799px;
   color: #384bfb;
